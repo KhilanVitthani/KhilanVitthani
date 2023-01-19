@@ -55,3 +55,6 @@ You can click the Preview link to take a look at your changes.
 ![Khilan's stats](https://github-readme-stats.vercel.app/api/top-langs?username=KhilanVitthani&show_icons=true&theme=github-dark&layout=compact)
 </br></br></br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhilanVitthani&theme=github-dark"/>
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KhilanVitthani&theme=github-compact)
+
