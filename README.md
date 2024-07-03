@@ -56,10 +56,10 @@ You can click the Preview link to take a look at your changes.
 </br></br></br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhilanVitthani&theme=github-dark"/>
 
-![Khilan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KhilanVitthani&theme=github-compact&custom_title=KhilanVitthani)
+<!---![Khilan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KhilanVitthani&theme=github-compact&custom_title=KhilanVitthani)
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=KhilanVitthani&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+</div>--->
 
 ###
 <picture>
